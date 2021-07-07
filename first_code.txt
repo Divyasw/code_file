@@ -1,0 +1,20 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <center>
+            <h1>Day 2</h1>
+        </center>
+        <hr/><hr/>
+        <a href="https://www.facebook.com/divya.dibbi.5/">Facebook</a>
+        <p>hi this is p 1</p>
+        <P>hi this is p 2</P>
+        <img src="edu.png"/>
+        <span>span 1 marries span 2</span>
+        <span>span 2 marries span 1</span>
+        <p>hi this is p3</p>
+        <span>hi this is span 3</span>
+        <br/>
+        <span>hi this is span 4</span>
+    </body>
+</html>
