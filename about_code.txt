@@ -1,0 +1,89 @@
+<html>
+    <head>
+        <title>My Profile</title>
+    </head>
+    <body>
+        <header>
+            <center> 
+                <h1 style="color:blue;"><i>Divyashivanand</i></h1>
+            </center>
+            <a href="https://www.facebook.com/divya.dibbi.5/"  target="_blank">Facebook</a>
+            <hr/>
+        </header>
+        <div>
+            <div>
+                <center>
+                     <h2><b>About</b></h2>
+                     <img src="divya.JPG" width="300" height="200" alt="divya"/>
+                     <p>Myself Divya, I am 23 year old, I live in davangere with my parents and younger brother. I can speak 3 languages, kannada,English , and Hindi. And I did my graduation in Information Science and Engg from BIET College,DVG. </p>
+                     <p>My short term goal is to get a job in a good company. And long term goal is to get more knowledge and improve my skills to reach a good personality in the company</p>
+                     <p>My strength is I can do any work confidently without any pressure, My weakness is I am not comfortable until I finish my work in the given time period.</p>
+                </center>
+            </div>
+            <div>
+                <center>
+                    <style>
+                        table {
+                            font-family: 'Times New Roman', Times, serif;
+                            border-collapse: collapse;
+                            width: 100%;
+                        }
+                        td,th {
+                            border: 1px solid #000000;
+                            text-align: left;
+                            padding: 8px;
+                        }
+                        tr:nth-child(even) {
+                            background-color: #dddddd;
+                        }
+                    </style>
+                    <h2><b>Education</b></h2>
+                    <table>
+                        <tr>
+                            <th><u>COLLEGE/SCHOOL</u></th>
+                            <th><u>YEAR</u></th>
+                        </tr>
+                        <tr>
+                            <td><i>Bapuji Institute of Engineering & Technology,Dvg - 60%</i></td>
+                            <td>2019</td>
+                        </tr>
+                        <tr>
+                            <td><i>Sri . Manjunatha Ind PU college,Dvg - 73%</i></td>
+                            <td>2015</td>
+                        </tr>
+                        <tr>
+                            <td><i>St. John's convent,Dvg - 63.84%</i></td>
+                            <td>2013</td>
+                        </tr>
+                        </table>
+                </center>
+            </div>
+            <div>
+                <center>
+                    <h2><b>Hobbies</b></h2>
+                    <p>My hobbies are listening to dancing,painting, watching web series and spending time with my friends. Singing and Drawing is something that gives me comfert and help me to relax. I started dancing and painting when i was in school and i also won many prizes.  over the year the habbit is something that has helped me to change a lot and give me lots of joy and happiness.</p>
+                </center>    
+            </div>
+            <div>
+                <center> 
+                    <h2><b>Dreams and Aspiration</b></h2>
+                    <p>while many peoples have dream to become doctors and lawyers. i always wanted to be a software engineer.</p>
+                </center>
+            </div>
+            <div>
+                <footer>
+                    <hr/>
+                    <center>
+                        <h5><b> Contact me</b></h5>
+                        <h5>&phone; 9900584328</h5>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7727.330161645984!2d75.92042172051734!3d14.446454959602969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bba251334bb1279%3A0x46089ebe86847bbd!2sShrinivaasa%20Nagara%2C%20Davanagere%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1625739405774!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </center>
+            </div>    
+        <footer>
+            <hr/>
+            <center>
+                <h4>&copy;Divyashivanand &hearts;</h4>
+            </center>
+        </footer>    
+    </body>
+</html>

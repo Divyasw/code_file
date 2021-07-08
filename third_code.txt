@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>City Tour</title>
+        <link href="edureka.jpg" rel="icon" type="image/jpg"/>
+    </head>
+    <body>
+        <header>
+            <center>
+                <h1>City Tour</h1>
+            </center>
+            <a href="https://www.facebook.com/divya.dibbi.5/" target="_blank">Facebook</a>
+            <hr/>
+        </header>
+        <div>
+            <div>
+                <center>
+                    <h3>Badami</h3>
+                    <img src="badami.jpg" alt="badami"/>
+                    <img src="badami,jpg" alt="badami2"/>
+                    <p>Badami is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </center>
+            </div>
+            <div>
+                <center>
+                    <h3>Mullayanagiri</h3>
+                    <img src="mullayanagiri.jpeg" alt="mullayanagiri"/>
+                    <p>mullayanagiri is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </center>
+            </div>
+            <div>
+                <center>
+                    <h3>Golgumbuz</h3>
+                    <img src="golgumbuz.jpg" alt="golgumbuz"/>
+                    <p>Golgumbuz is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </center>
+            </div>
+        </div>
+        <footer>
+            <hr/>
+            <center>
+                <h3>&copy; Divyashivanand &hearts;</h3>
+            </center>
+        </footer>
+    </body>
+</html>
